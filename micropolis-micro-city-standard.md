@@ -3,7 +3,7 @@ id: 35
 title: '"Micropolis" Micro City Standard'
 date: 2010-05-14T07:46:06+00:00
 author: Cavorter
-layout: page
+layout: default
 guid: http://twinlug.com/?page_id=35
 dsq_thread_id:
   - "272787374"
