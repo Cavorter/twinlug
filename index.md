@@ -10,7 +10,7 @@ TwinLUG is a group of adult LEGO enthusiasts who get together regularly to share
 
 # What is [Micropolis](micropolis-micro-city-standard)?
 
-In 2008 our group [published a specification for the Micropolis group build projects](micropolis-micro-city-standard) that has since been used by individuals and groups all around the world to facilitate an easy way to showcase the different ideas and styles of building inherent to any community.
+In 2008 our group started working on [a specification for the Micropolis group build projects](micropolis-micro-city-standard) and published it for others to use in 2009. Sinc then it has been used by individuals and groups all around the world to facilitate an easy way to showcase the different ideas and styles of building inherent to any community.
 
 # Can I become a member?
 
