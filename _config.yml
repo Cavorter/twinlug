@@ -24,7 +24,7 @@ url: "twinlug.com" # the base hostname & protocol for your site, e.g. http://exa
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
