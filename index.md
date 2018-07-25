@@ -34,7 +34,7 @@ We display at various events throughout the year around the Twin Cities area as 
 
 # Can your group help out with my project or event?
 
-Maybe. The members of the group have a diverse set of talents and experiences but almost all of us have day jobs that we keep so we can afford to buy new brick, and maybe food. If there is a project or event that you would like to see if we could help out with please [send us an email](mailto:contact@twinlug.com) or post something on the [Facebook Group](https://www.facebook.com/groups/TWINLUG/).
+Maybe. The members of the group have a diverse set of talents and experiences but almost all of us have day jobs that we keep so we can afford to buy new brick, and maybe food. If there is a project or event that you think we could help out with please [send us an email](mailto:contact@twinlug.com) or post something on the [Facebook Group](https://www.facebook.com/groups/TWINLUG/).
 
 # Can you please give me some of your extra parts?
 
