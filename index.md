@@ -24,11 +24,4 @@ We have a regular monthly meeting at [The Works Museum](https://theworks.org/) t
 
 We display at various events throughout the year around the Twin Cities area as well as occaisionally travel outside the state, but for a quick glance at what some of our members are building take a look at our [Flickr Group](https://www.flickr.com/groups/twinlug/pool/).
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-<style type="text/css"> 
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:420px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=4&display=random&size=s&layout=x&source=user&user=854711@N24"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+<a align="center" data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
