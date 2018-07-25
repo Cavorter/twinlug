@@ -8,32 +8,34 @@ guid: http://twinlug.com/?page_id=35
 dsq_thread_id:
   - "272787374"
 ---
+# "Micropolis" Micro City Standard
+
 **Version 1.1 - May 14, 2010**
 
 A standard to allow individual builders to build modules to add to a micro scale city in a group build.
 
 A 16 x 16 stud Module equals 1/4 of a city block. Four Modules create a short block in a city. Each four module block is ringed with a two stud road. Blocks connected together create a 4 stud wide road. Cars are 2 studs, buses or trucks 4 studs.
 
-# Scale
+## Scale
 
 1 brick is 9 feet, 1 plate is 3 feet and one stud is 7.5 feet. These are for reference only. The blocks are smaller than the blocks in a real city. Scale your buildings accordingly.
 
-# Base Module
+## Base Module
 
 A sandwich of plates and bricks create the base of the module. One plate layer for the bottom, one brick layer on top of that, one plate layer on top of the bricks. 1 x 2 Technic bricks with one hole are in the stud 8-9 positions on each side. There are 4 technics bricks used. This allows the modules to be connected with Technic pins.
 
-## Roads, Alleys and Sidewalks
+### Roads, Alleys and Sidewalks
  The two outer rows of studs on two sides are the roads, the opposite two sides contain the optional alleys, and the sidewalks parallel the roads. Use two rows of black tiles for roads. Crosswalks are a 1 x 2 white tile at the 4th stud position from each corner. Use 1 row of dark gray tiles for alleys and parking lots. Use light gray tiles for sidewalks, although alternate colors can be used to tie the sidewalk to the building.
 
 ![Micropolis Base module](http://twinlug.com/wp-content/uploads/2010/02/Micropolis-Base_Module.png "Micropolis Base module")
 
-## Download a Model File!
+### Download a Model File!
   
 We have put together a generic model of the base module in <a href="http://ldd.lego.com/default.aspx" target="_blank">LEGO Digital Designer</a> so anyone can get started building their own Micropolis right away.
   
 [Micropolis Module Base (LXF)](http://twinlug.com/wp-content/uploads/2010/02/Micropolis-Base_Module.lxf)
 
-# Bluff and Waterfront Modules
+## Bluff and Waterfront Modules
   
 The version 1.1 specification has been extended to include Bluff modules which allow for vertical expansion and Waterfront modules which allow for adding water in a standardized way to a Micropolis layout. These extensions have their own pages of specifications.
 
@@ -41,7 +43,7 @@ You can view the [Micropolis Bluff specifications here](http://twinlug.com/micro
 
 You can view the [Micropolis Waterfront specifications here](http://twinlug.com/micropolis-micro-city-standard/micropolis-v1-1-waterfront/)!
 
-# Frequently Asked Questions
+## Frequently Asked Questions
   
 **Q. Can I see some pictures of a Micropolis layout?**
   
@@ -92,8 +94,6 @@ Larger square blocks are even more complicated because you need to fill in the m
 <pre>ABA
 BCB
 ABA</pre>
-
- 
 
 <pre>ABBBA
 BCCCB
