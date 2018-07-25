@@ -17,9 +17,9 @@ header.subpage a { color: $header-heading-color; }
 header.subpage .project-tagline { margin-bottom: auto; }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-// center the flickr embed
+// stupid css tricks
 
-iframe.flickr-embed-frame { display: block; margin: 0px auto; }
+.center { text-align: center; }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // from theme/jekyll-theme-cayman.scss
