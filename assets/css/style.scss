@@ -8,7 +8,7 @@ header.page-header {
     linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-blend-mode: multiply;
 }
-header.subpage { padding: 0px; }
+header.subpage { padding-top: 1rem; padding-bottom: 1rem; }
 header.subpage a { color: $header-heading-color; }
 
 // from theme/jekyll-theme-cayman.scss
