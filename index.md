@@ -20,7 +20,7 @@ Our group is always looking for new members and we only ask that you be 18 years
 
 We have a regular monthly meeting at [The Works Museum](https://theworks.org/) that is usually on the third Sunday of the month from 1:30 to 4 pm, but be sure to check the calendar on the member group or our [Facebook Group](https://www.facebook.com/groups/TWINLUG/) for details about the next meeting.
 
-# I'm can't get to a meeting is there another way to keep in touch?
+# I can't get to a meeting is there another way to keep in touch?
 
 Currently the best method to keep up with us without being a member is to join our Facebook Group.
 
