@@ -3,4 +3,31 @@
 
 @import "{{ site.theme }}";
 
+header.page-header {
+  background-image: url('/twinlug/assets/bricks-white-60.jpg'),
+    linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-blend-mode: multiply;
+}
 header.subpage { padding: 0px; }
+header.subpage a { color: $header-heading-color; }
+
+// from theme/jekyll-theme-cayman.scss
+
+#skip-to-content {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+  top: -10px;
+
+  &:focus {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: auto;
+    width: auto;
+    background: invert($body-link-color);
+    outline: thick solid invert($body-link-color);
+  }
+}
+
