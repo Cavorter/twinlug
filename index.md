@@ -35,7 +35,7 @@ We display at various events throughout the year around the Twin Cities area as 
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2075825275991417&autoLogAppEvents=1';
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2075825275991417';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-group" data-href="https://www.facebook.com/groups/TWINLUG/" data-width="280" data-show-social-context="false" data-show-metadata="false"></div>
 
