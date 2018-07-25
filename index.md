@@ -39,6 +39,10 @@ We display at various events throughout the year around the Twin Cities area as 
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-group" data-href="https://www.facebook.com/groups/TWINLUG/" data-width="280" data-show-social-context="false" data-show-metadata="false"></div>
 
+# Is your group affiliated with or part of The LEGO Group?
+
+While TwinLUG is an [RLUG](https://lan.lego.com/topic/8-welcome-start-here/?tab=comments#comment-31) we are not otherwise part of The LEGO Group corporation and operate completely independently. We're just a group of people who like playing with a fun toy.
+
 # Can your group help out with my project or event?
 
 Maybe. The members of the group have a diverse set of talents and experiences but almost all of us have day jobs that we keep so we can afford to buy new brick, and maybe food. If there is a project or event that you think we could help out with please [send us an email](mailto:contact@twinlug.com) or post something on the [Facebook Group](https://www.facebook.com/groups/TWINLUG/).
