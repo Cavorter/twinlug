@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 header.page-header {
+  background-color: none;
   background-image: url('/twinlug/assets/bricks-white-60.jpg'),
     linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-blend-mode: multiply;
