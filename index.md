@@ -26,10 +26,6 @@ Currently the best method to keep up with us without being a member is to join o
 
 <div class="fb-page" data-href="https://www.facebook.com/groups/TWINLUG/" data-tabs="events" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
 
-# Where can I see your creations?
-
-We display at various events throughout the year around the Twin Cities area as well as occaisionally travel outside the state, but for a quick glance at what some of our members are building take a look at our [Flickr Group](https://www.flickr.com/groups/twinlug/pool/).
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -38,6 +34,12 @@ We display at various events throughout the year around the Twin Cities area as 
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2075825275991417';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script><div class="fb-group" data-href="https://www.facebook.com/groups/TWINLUG/" data-width="280" data-show-social-context="false" data-show-metadata="false"></div>
+
+# Where can I see your creations?
+
+We display at various events throughout the year around the Twin Cities area as well as occaisionally travel outside the state, but for a quick glance at what some of our members are building take a look at our [Flickr Group](https://www.flickr.com/groups/twinlug/pool/).
+
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Is your group affiliated with or part of The LEGO Group?
 
