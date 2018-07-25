@@ -4,7 +4,20 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+# What is TwinLUG?
 
-# Test Header
+TwinLUG is a group of adult LEGO enthusiasts who get together regularly to share ideas, trade parts, and generally be a part of the larger worldwide LEGO fan community. We enjoy publicly showing our own creations in local and national venues when the opportunity arises and generally try to provide a local resource for people who are interested in LEGO as a hobby at any level.
 
-This is some placeholder text to see if we can get a theme to render.
+# What is Micropolis?
+
+In 2009 our group [published a specification for the Micropolis group build projects](micropolis-micro-city-standard) that has since been used by individuals and groups all around the world to facilitate an easy way to showcase the different ideas and styles of building inherent to any community.
+
+# Can I become a member?
+
+Our group is always looking for new members and we only ask that you be 18 years of age or older. 14 to 17 year old enthusiasts are welcome but must be accompanied by a parent or adult guardian.
+
+# When is the next meeting?
+
+We have a regular monthly meeting at [The Works Museum](https://theworks.org/) that is usually on the third Sunday of the month from 1:30 to 4 pm, but be sure to check the calendar on the member group or our Facebook page for details about the next meeting.
+
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
