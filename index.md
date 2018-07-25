@@ -20,12 +20,6 @@ Our group is always looking for new members and we only ask that you be 18 years
 
 We have a regular monthly meeting at [The Works Museum](https://theworks.org/) that is usually on the third Sunday of the month from 1:30 to 4 pm, but be sure to check the calendar on the member group or our [Facebook Group](https://www.facebook.com/groups/TWINLUG/) for details about the next meeting.
 
-# I can't get to a meeting is there another way to keep in touch?
-
-Currently the best method to keep up with us without being a member is to join our Facebook Group.
-
-<div class="fb-page" data-href="https://www.facebook.com/groups/TWINLUG/" data-tabs="events" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -33,7 +27,15 @@ Currently the best method to keep up with us without being a member is to join o
   js = d.createElement(s); js.id = id;
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2075825275991417';
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script><div class="fb-group" data-href="https://www.facebook.com/groups/TWINLUG/" data-width="280" data-show-social-context="false" data-show-metadata="false"></div>
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/groups/TWINLUG" data-tabs="events" data-width="500" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
+
+# I can't get to a meeting is there another way to keep in touch?
+
+Currently the best method to keep up with us without being a member is to join our Facebook Group.
+
+<div class="fb-group" data-href="https://www.facebook.com/groups/TWINLUG/" data-width="280" data-show-social-context="false" data-show-metadata="false"></div>
 
 # Where can I see your creations?
 
