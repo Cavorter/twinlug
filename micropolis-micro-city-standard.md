@@ -39,9 +39,9 @@ We have put together a generic model of the base module in <a href="http://ldd.l
   
 The version 1.1 specification has been extended to include Bluff modules which allow for vertical expansion and Waterfront modules which allow for adding water in a standardized way to a Micropolis layout. These extensions have their own pages of specifications.
 
-You can view the [Micropolis Bluff specifications here](http://twinlug.com/micropolis-micro-city-standard/micropolis-v1-1-bluff/)!
+You can view the [Micropolis Bluff specifications here](micropolis/micropolis-v1-1-bluff)!
 
-You can view the [Micropolis Waterfront specifications here](http://twinlug.com/micropolis-micro-city-standard/micropolis-v1-1-waterfront/)!
+You can view the [Micropolis Waterfront specifications here](micropolis/micropolis-v1-1-waterfront)!
 
 ## Frequently Asked Questions
   
