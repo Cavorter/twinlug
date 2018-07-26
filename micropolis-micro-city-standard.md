@@ -27,13 +27,13 @@ A sandwich of plates and bricks create the base of the module. One plate layer�
 ### Roads, Alleys and Sidewalks
  The two outer rows of studs on two sides are the roads, the opposite two sides contain the optional alleys, and the sidewalks parallel the roads. Use two rows of black tiles for roads. Crosswalks are a 1 x 2 white tile at the 4th stud position from each corner. Use 1 row of dark gray tiles for alleys and parking lots. Use light gray tiles for sidewalks, although alternate colors can be used to tie the sidewalk to the building.
 
-![Micropolis Base module](http://twinlug.com/wp-content/uploads/2010/02/Micropolis-Base_Module.png "Micropolis Base module")
+![Micropolis Base module](micropolis/images/Micropolis-Base_Module.png "Micropolis Base module")
 
 ### Download a Model File!
   
 We have put together a generic model of the base module in <a href="http://ldd.lego.com/default.aspx" target="_blank">LEGO Digital Designer</a> so anyone can get started building their own Micropolis right away.
   
-[Micropolis Module Base (LXF)](http://twinlug.com/wp-content/uploads/2010/02/Micropolis-Base_Module.lxf)
+[Micropolis Module Base (LXF)](micropolis/examples/Micropolis-Base_Module.lxf)
 
 ## Bluff and Waterfront Modules
   
