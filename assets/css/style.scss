@@ -17,7 +17,7 @@ header.page-header h1 {
   background-repeat: no-repeat;
   background-size: cover;
   display: block; width: 476px; height: 250px;
-  text-indent: -16384; overflow: hidden;
+  text-indent: -32768em; overflow: hidden;
 }
 header.subpage { padding-top: 1rem; padding-bottom: 1rem; }
 header.subpage h1 { width: 318px; height: 167px; }
