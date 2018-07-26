@@ -16,13 +16,17 @@ header.page-header h1 {
   background-image: url('/assets/logo/cropped-TwinLogo.png');
   background-repeat: no-repeat;
   background-size: cover;
-  display: block; width: 476px; height: 250px;
-  text-indent: -32768em; overflow: hidden;
+  display: block; width: 476px; height: 250px; margin: 0px auto;
+  color: transparent;
 }
 header.subpage { padding-top: 1rem; padding-bottom: 1rem; }
 header.subpage h1 { width: 318px; height: 167px; }
 header.subpage a { color: $header-heading-color; }
-header.subpage .project-tagline { margin-bottom: auto; }
+header.subpage h1 a {
+  display: block; width: 476px; height: 250px;
+  color: transparent;
+}
+header.subpage .project-tagline { margin-bottom: inherit; }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // stupid css tricks
