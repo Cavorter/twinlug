@@ -1,6 +1,9 @@
 ---
 ---
 
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// https://github.com/pages-themes/cayman/tree/master/_sass
+
 @import "{{ site.theme }}";
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -40,7 +43,7 @@ header.subpage h1 a {
 .center { text-align: center; }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-// from theme/jekyll-theme-cayman.scss
+// restore from theme/jekyll-theme-cayman.scss
 
 #skip-to-content {
   height: 1px;
