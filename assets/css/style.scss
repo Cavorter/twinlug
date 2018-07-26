@@ -12,7 +12,15 @@ header.page-header {
     linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-blend-mode: multiply;
 }
+header.page-header h1 {
+  background-image: url('/assets/logo/cropped-TwinLogo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block; width: 476px; height: 250px;
+  text-indent: -16384; overflow: hidden;
+}
 header.subpage { padding-top: 1rem; padding-bottom: 1rem; }
+header.subpage h1 { width: 318px; height: 167px; }
 header.subpage a { color: $header-heading-color; }
 header.subpage .project-tagline { margin-bottom: auto; }
 
