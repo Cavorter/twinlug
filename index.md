@@ -41,11 +41,13 @@ Currently the best method to keep up with us without being a member is to join o
 
 We display at various events throughout the year around the Twin Cities area as well as occaisionally travel outside the state, but for a quick glance at what some of our members are building take a look at our [Flickr Group](https://www.flickr.com/groups/twinlug/pool/).
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p class="center">
+  <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/carrier_lost/29399274828/in/pool-twinlug/" title="Arctic Submarine Explorer"><img src="https://farm2.staticflickr.com/1763/29399274828_345b326527.jpg" width="500" height="375" alt="Arctic Submarine Explorer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
 
 # Is your group affiliated with or part of The LEGO Group?
 
-While TwinLUG is an [RLUG](https://lan.lego.com/topic/8-welcome-start-here/?tab=comments#comment-31) we are not otherwise part of The LEGO Group corporation and operate completely independently. We're just a group of people who like playing with a fun toy.
+While TwinLUG is an [RLUG](https://lan.lego.com/topic/8-welcome-start-here/?tab=comments#comment-31 "Recognized LEGO User Group") we are not otherwise part of The LEGO Group corporation and operate completely independently. We're just a group of people who like playing with a fun toy.
 
 # Can your group help out with my project or event?
 
