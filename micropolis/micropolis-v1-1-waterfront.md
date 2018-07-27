@@ -8,7 +8,7 @@ New in the v1.1 spec are Waterfront Modules. Last year at BrickWorld 2009 a few 
 
 # Waterfront Modules
 
-<img src="micropolis/images/Micropolis-Waterfront_Waterlevel.png" alt="Micropolis Waterfront - Waterlevel diagram" width=500 />
+<img src="micropolis/images/Micropolis-Waterfront_Waterlevel.png" alt="Micropolis Waterfront - Waterlevel diagram" width=500></img>
 
 For all Waterfront modules the “water” is the top layer of plates in the module base sandwich immediately over the brick layer and must be Bright Blue in color. This puts the water level one plate below the level of the roads and sidewalks in the base modules. The outer stud at the water level must not be covered to allow for a consistent water level between Waterfront modules. For all Waterfront modules that border non Waterfront modules the first two studs along that side are standard road, the third stud is standard sidewalk and the fourth stud must have at least one plate in height in any appropriate color. This provides a consistent look from module to module along the waterfront.
 
